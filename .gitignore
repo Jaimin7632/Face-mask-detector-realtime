@@ -1,0 +1,9 @@
+# Created by .ignore support plugin (hsz.mobi)
+.idea
+dataset/*
+*.rec
+*.idx
+*.lst
+*.pt
+*.params
+*.json
